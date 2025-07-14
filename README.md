@@ -1,4 +1,4 @@
-# AASANI - Peer-to-Peer Delivery Service
+![aasani website admin management](https://github.com/user-attachments/assets/814b0ca9-f1b0-4259-b0c5-36ff9d8907d6)# AASANI - Peer-to-Peer Delivery Service
 
 [![React Native](https://img.shields.io/badge/Built%20with-React%20Native-61dafb.svg)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-ffca28.svg)](https://firebase.google.com/)
@@ -51,26 +51,38 @@ In places like Nowshera, Pakistan, sending packages is challenging:
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/Register%20Screen.png" alt="Register Screen" width="250"/>
+        <img src="screenshots/1.png" alt="Home Screen" width="250"/>
         <br/>
-        <em>Register Screen</em>
+        <em>Home Screen</em>
       </td>
       <td align="center">
-        <img src="screenshots/Login%20Screen.png" alt="Login Screen" width="250"/>
+        <img src="screenshots/2.png" alt="Login Screen" width="250"/>
         <br/>
         <em>Login Screen</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/Ride%20Request%20Form%20Screen.png" alt="Ride Request Form" width="250"/>
+        <img src="screenshots/3.png" alt="Register Form" width="250"/>
         <br/>
-        <em>Ride Request Form</em>
+        <em>Register Form Phase 1</em>
       </td>
       <td align="center">
-        <img src="screenshots/Chat%20Screen.png" alt="Chat Screen" width="250"/>
+        <img src="screenshots/4.png" alt="Notifications Screen" width="250"/>
         <br/>
-        <em>Chat Interface</em>
+        <em>Notifications Interface</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/5.png" alt="Post Info Live Tracking" width="250"/>
+        <br/>
+        <em>Post Info Live Tracking</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/6.png" alt="Payment Screen" width="250"/>
+        <br/>
+        <em>Stripe Payment Screen</em>
       </td>
     </tr>
   </table>
@@ -82,16 +94,16 @@ In places like Nowshera, Pakistan, sending packages is challenging:
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/Admin%20Dashboard%20Screen.png" alt="Admin Dashboard" width="500"/>
+        <img src="screenshots/Web.png" alt="Web Public Website" width="500"/>
         <br/>
-        <em>Admin Dashboard</em>
+        <em>Web Public Website</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/User%20Management%20Screen.png" alt="User Management" width="500"/>
+        <img src="screenshots/adminPanel.png" alt="Admin Management" width="500"/>
         <br/>
-        <em>User Management</em>
+        <em>Admin Management</em>
       </td>
     </tr>
   </table>
