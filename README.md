@@ -1,4 +1,4 @@
-![aasani website admin management](https://github.com/user-attachments/assets/814b0ca9-f1b0-4259-b0c5-36ff9d8907d6)# AASANI - Peer-to-Peer Delivery Service
+# AASANI - Peer-to-Peer Delivery Service
 
 [![React Native](https://img.shields.io/badge/Built%20with-React%20Native-61dafb.svg)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-ffca28.svg)](https://firebase.google.com/)
@@ -75,12 +75,12 @@ In places like Nowshera, Pakistan, sending packages is challenging:
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/5.png" alt="Post Info Live Tracking" width="250"/>
+        <img src="screenshots/5.jpg" alt="Post Info Live Tracking" width="250"/>
         <br/>
         <em>Post Info Live Tracking</em>
       </td>
       <td align="center">
-        <img src="screenshots/6.png" alt="Payment Screen" width="250"/>
+        <img src="screenshots/6.jpg" alt="Payment Screen" width="250"/>
         <br/>
         <em>Stripe Payment Screen</em>
       </td>
@@ -101,7 +101,7 @@ In places like Nowshera, Pakistan, sending packages is challenging:
     </tr>
     <tr>
       <td align="center">
-        <img src="screenshots/adminPanel.png" alt="Admin Management" width="500"/>
+        <img src="screenshots/adminPanel.jpg" alt="Admin Management" width="500"/>
         <br/>
         <em>Admin Management</em>
       </td>
