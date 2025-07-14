@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Server-Node.js-339933.svg)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> ![Main Advertisement Image](screenshots/bgimageAasani.png)
+> ![Main Advertisement Image](screenshots/video.mp4)
 
 ## 📱 Overview
 
